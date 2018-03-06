@@ -23,3 +23,14 @@ Fala pessoal, abaixo vai estar os links citados na talk.
 3. Pratique!
 * [Uri](https://www.urionlinejudge.com.br/judge/pt) 
 * [Codewars](https://www.codewars.com/)
+
+4. Projetos.
+* [Flappy Angelo](https://github.com/tricknp/Flappy-Senac)
+* [Criptografia simples](https://github.com/tricknp/Simple-Encryption)
+* [Site pessoal](http://tricknp.com)
+* [Pegue o pombo](https://github.com/tricknp/Catch-the-pigeon)
+* [Nodeprop](https://github.com/tricknp/nodeprop)
+* [Shots on Space](https://github.com/tricknp/Shots-on-space)
+* [Cinema simulation](https://github.com/tricknp/Cinema-Simulation)
+* [SanApp](https://github.com/tricknp/SanApp)
+* [Senac Airlines](https://github.com/tricknp/Senac-Airlines)
