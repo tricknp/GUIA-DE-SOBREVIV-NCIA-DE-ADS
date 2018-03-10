@@ -34,3 +34,8 @@ Fala pessoal, abaixo vai estar os links citados na talk.
 * [Cinema simulation](https://github.com/tricknp/Cinema-Simulation)
 * [SanApp](https://github.com/tricknp/SanApp)
 * [Senac Airlines](https://github.com/tricknp/Senac-Airlines)
+
+5. Professores.
+* [Angelo](https://github.com/angelogluz)
+* [Edecio](https://github.com/edeciofernando)
+* [Gladimir](https://github.com/gladimircc)
